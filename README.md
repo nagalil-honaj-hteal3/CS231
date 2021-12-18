@@ -1,7 +1,7 @@
 # CS231
 **Assembly Language and Digital Circuits - CSUSM**
 
-*Pre-requisite for CS231 -- *
+*Pre-requisite for CS231 -- CS111*
 
 ***Course Overview:*** The structure of computers, number and character representation, word and instruction formats, and flowcharting.  Machine and assembly language programming, address modification, indexing, indirect addressing, subroutines, and mnemonic interpreting systems.  Includes digital logic, analysis and synthesis of circuits, and circuits of commonly used computer components. 
 
